@@ -3,3 +3,4 @@
 -main TestMain
 -neko bin/gps-test.n
 -lib utest
+-lib hxkalman
