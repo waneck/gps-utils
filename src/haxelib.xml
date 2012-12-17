@@ -1,0 +1,8 @@
+<project name="hxgps" url="https://github.com/waneck/gps-utils" license="MIT">
+    <user name="waneck"/>
+    <tag v="gps"/>
+    <tag v="cross"/>
+    <description>GPS utilities.</description>
+    <version name="0.0.1">Initial commit</version>
+	<depends name="hxkalman"/>
+</project>
