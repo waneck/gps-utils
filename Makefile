@@ -1,0 +1,2 @@
+test:
+	haxe build.hxml
